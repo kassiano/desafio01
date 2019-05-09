@@ -40,7 +40,7 @@
   </div>
 
   <p>
-      Para acessar o desafio digite no navegador: http://10.107.144.36/desafio
+      Para acessar o desafio digite no navegador: https://desafio01.herokuapp.com
   </p>
 
 </div>
